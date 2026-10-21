@@ -1,0 +1,6 @@
+{
+  "name": "AutoFill PDF Pro - Bank Form Automation",
+  "description": "Automatically populate official bank forms and PDF templates directly from connected Google Sheets and spreadsheets with pixel-accurate alignment and high-resolution export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
